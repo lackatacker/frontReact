@@ -1,0 +1,9 @@
+.iframe-div {
+    margin: auto;
+}
+.iframe-payment {
+    margin: auto;
+    display: block;
+    width: 80%;
+    height: 600px;
+}
